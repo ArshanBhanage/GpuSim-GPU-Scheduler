@@ -1,0 +1,5 @@
+id,arrival,duration,priority,gpus,share,memory
+1,0,10,10,1,1,8
+2,1,5,9,2,1,8
+3,1,2,1,1,1,8
+4,12,4,2,1,0.5,4
